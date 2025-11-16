@@ -26,7 +26,7 @@ Multi-site enterprise network (HQ, Branch-A, Branch-B) with VLAN segmentation, i
 - Branch-to-branch reachability confirmed
 
 ## Files
-- `/Configs` – device running-configs
+- `Enterprise Network Lab.pkt` – device running-configs
 - `/Screens` – validation screenshots
 
 ## Notes / Lessons Learned
